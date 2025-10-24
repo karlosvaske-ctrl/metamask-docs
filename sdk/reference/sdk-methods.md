@@ -1,4 +1,4 @@
----
+---https://github.com/MetaMask/metamask-docs.git
 description: Methods reference for MetaMask SDK.
 keywords: [SDK, method, methods, dapp]
 toc_max_heading_level: 2
